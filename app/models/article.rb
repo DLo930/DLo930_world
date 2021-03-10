@@ -1,4 +1,4 @@
-class Aritcle < ApplicationRecord
+class Article < ApplicationRecord
 
   has_one :category
 
